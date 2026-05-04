@@ -1,0 +1,9 @@
+# Python - Archivos temporales de ejecución
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Binario
+ulsnake
+
