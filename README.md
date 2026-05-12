@@ -60,7 +60,7 @@ This is one of my first projects in C, dating back to 2004. Originally written f
 
 The code is far from modern standards, provided 'as-is'.
 
-## 💾 Legacy Version (MS-DOS)
+### 💾 Legacy Version (MS-DOS)
 Inside the `dos-legacy` folder, you can find the original 2004 version of the game.
 It was written for Borland Turbo C++ and uses DOS-specific headers like `conio.h` and `dos.h`.
 
